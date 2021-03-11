@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Work+Sans:wght@700&display=swap');
+
+body {
+  font-family: 'Bitter', serif;
+  
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+
+#projects {
+  background-color: #e2edff;
+}
+
+
+section {
+  padding-top: 5rem;
+}

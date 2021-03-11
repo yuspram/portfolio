@@ -1,0 +1,32 @@
+body {
+  background-color: #010101;
+}
+
+
+.navbar-brand {
+  font-family: domine;
+  color: rgb(210, 178, 92);
+  margin-right: 90rem;
+}
+
+
+.nav-link {
+  color: white;
+  margin-right: 10px;
+}
+
+
+.jumbotron {
+  background-color: #010101;
+  color: white;
+}
+
+
+.container {
+  float: left;
+}
+
+
+img {
+  float: right:
+}
