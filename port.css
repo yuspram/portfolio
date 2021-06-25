@@ -9,6 +9,10 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Work Sans', sans-serif;
 }
 
+.navbar {
+  background-color: #41B3A3;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
@@ -22,4 +26,12 @@ h1,h2,h3,h4,h5,h6 {
 
 section {
   padding-top: 5rem;
+}
+
+.footer {
+  background-color: rgb(17, 17, 17);
+}
+
+.btn {
+  background-color: #41B3A3;
 }
